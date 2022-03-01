@@ -1,0 +1,208 @@
+.front img
+{
+	width:100%;
+	height: 650px;
+}
+.txt
+{
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	position: absolute;
+	color: #191A19;
+	font-size: 70px;
+	font-family: "road rage"
+}
+.horcruxes .card
+{
+	padding: 7px;
+	background-color: #E1E5EA;
+}
+.foot
+{
+	float: left;
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: center;
+}
+.foot a
+{
+	text-decoration: none;
+	color: black;
+}
+.foot a:hover
+{
+	text-decoration: underline;
+}
+.bttn
+{
+	border:1px solid black;
+	border-radius: 5px;
+	font-size: 30px;
+	background-color: #adb5bd;
+	text-align: center;
+}
+.bttn a
+{
+	color: black;
+	text-decoration: none;
+}
+.col-md-4
+{
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	display: grid;
+	position: relative;
+}
+.box p
+{
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+h5
+{
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+.author
+{
+	text-align: left;
+	padding-left: 7%;
+	padding-right: 7%; 
+}
+.author p
+{
+	font-family: 'PT Sans Narrow', sans-serif;
+
+}
+#bbb ol
+{
+  	padding: 25px;
+  	border: 2px solid black;
+  	margin-left: 25%;
+  	margin-right: 25%;
+  	color: black;
+  	align-items: center;
+  	font-family: "montserrat"
+}
+#aaa
+{
+	background-color: grey;
+	color: white;
+}
+#bbb a
+{
+	text-decoration: none;
+	color: black;
+}
+#bbb a:hover
+{
+	text-decoration: underline;
+	color: black;
+}
+li
+{
+	text-align: left;
+	color: black
+}
+.col
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#box
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 3%;
+	padding-left: 3%;
+}
+.navbar-brand
+{
+	font-family: "lobster";
+}
+ul
+{
+	list-style-type: none;
+	
+}
+.buy a
+{
+	text-decoration: none;
+	color: black;
+}
+.buy a:hover
+{
+	font-weight: bold;
+}
+.buy
+{
+	border:1px solid black;
+	width: 50px;
+	text-align: center;
+	border-radius: 5px;
+}
+.buy:hover
+{
+	border:2px solid black;
+}
+.buybox
+{
+	padding-top: 5px;
+}
+.horcruxes
+{
+	padding: 5%;
+	font-family: Gideon Roman;
+	background-color: #ced4da;
+	padding-right: 25%;
+	color: #041562
+}
+
+
+#list li
+{
+	border-radius: 10px;
+	border: 1px solid black;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 2px;
+	text-align: left;
+}
+.web a
+{
+	text-decoration: none;
+	color: black;
+}
+.heart
+{
+	background-color: black;
+	color: white;
+}
+.author img
+{
+	border-radius: 50%;
+}
+
+.wrapper
+{
+	display: flex;
+	overflow-x: scroll;
+}
+.wrapper .item
+{
+	padding: 5px;
+}
+.wrapper .item img
+{
+	border-radius: 50%;
+}
+.wrapper figcaption
+{
+	text-align: center;
+}
